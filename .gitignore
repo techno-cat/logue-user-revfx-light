@@ -1,0 +1,5 @@
+*/build/*
+*.mnlgxdunit
+*.ntkdigunit
+tools/*
+!tools/prime.pl
